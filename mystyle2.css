@@ -1,0 +1,44 @@
+
+
+  /* Especificidad (0,0,1)*/
+  footer{
+    position : absolute;
+    bottom : 0;
+    height : 40px;
+    margin-top : 40px;   
+  }
+
+  /* Especificidad (0,1,0)*/
+  .protagonista {
+    position:relative;
+    float:left;
+    max-width:33.33%;
+    width: 33.33%
+  }
+
+  /* Especificidad (1,0,0)*/
+  #boton {
+    padding: 0;
+    }
+
+  /* Especificidad (1,0,1)*/
+  #boton li {
+      display: inline;
+    }
+
+  /* Especificidad (1,0,2)*/
+  #boton li a {  
+      float: left;
+      padding: 10px;
+      }
+
+  /* Especificidad (0,1,0)*/
+  .centro{
+    position: relative; 
+    bottom: -99px;
+    right:  930px; 
+    
+    }
+  
+  
+  

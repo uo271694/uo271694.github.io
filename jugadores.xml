@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE jugadores SYSTEM "jugadores.dtd" >
+<jugadores>   
+    <jugador nombre="LeBron" apellido= "James" edad="36" imagen="https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1966.png&amp;w=350&amp;h=254.png">
+        <fisico altura="206" peso="113"/>
+        <trayectoria temporadas="18" partidos= "1310" puntos="27.0" anillos="4" mvp="4">
+            <equipo ciudad="Cleveland" franquicia="Cavaliers" temporadas= "11" partidos="849" puntos="27.2" anillos="1" mvp="2"/>
+            <equipo ciudad="Miami" franquicia="Heat" temporadas= "4" partidos="294" puntos="26.9" anillos="2" mvp="2"/>
+            <equipo ciudad="Los Angeles" franquicia="Lakers" temporadas= "3" partidos="167" puntos="25.9" anillos="1" mvp="0"/>
+        </trayectoria>
+    </jugador>
+      <jugador nombre="Stephen" apellido= "Curry" edad="33" imagen="https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3975.png">
+        <fisico altura="190" peso="83"/>
+        <trayectoria temporadas="12" partidos= "762" puntos="24.2" anillos="3" mvp="2">
+            <equipo ciudad="Golden State" franquicia="Warriors" temporadas= "12" partidos="762" puntos="24.2" anillos="3" mvp="2"/>
+        </trayectoria>
+    </jugador>
+    <jugador nombre="Kevin" apellido= "Durant" edad="32" imagen="https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3202.png">
+        <fisico altura="208" peso="108"/>
+        <trayectoria temporadas="13" partidos= "884" puntos="27.0" anillos="2" mvp="1">
+            <equipo ciudad="Oklahoma City" franquicia="Thunder" temporadas= "9" partidos="641" puntos="27.4" anillos="0" mvp="1"/>
+            <equipo ciudad="Golden State" franquicia="Warriors" temporadas= "3" partidos="208" puntos="25.8" anillos="2" mvp="0"/>
+            <equipo ciudad="Brooklyn" franquicia="Nets" temporadas= "1" partidos="35" puntos="26.9" anillos="0" mvp="0"/>
+        </trayectoria>
+    </jugador>
+</jugadores>
